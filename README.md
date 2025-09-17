@@ -15,7 +15,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/MrGupa/Movie_Recommender
    cd Movies_Recommendar
    ```
 
